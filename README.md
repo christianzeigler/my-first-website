@@ -136,7 +136,7 @@ parenthesese, etc. inside the asterisks
 I can make references. For example, I found this information all in the markdown  
 guide at markdownguide.org [markdown-guide][1]
 
-[markdown-guide]:https://www.markdownguide.org/basic-syntax/
+[markdown-guide]: https://www.markdownguide.org/basic-syntax/
 
 
 Maybe it would have been useful early on, but some escape characters are useful
